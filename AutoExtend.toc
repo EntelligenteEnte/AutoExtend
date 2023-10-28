@@ -1,0 +1,16 @@
+## Title: AutoExtend
+## Notes: Automatically extends instance lockouts.
+## Author: Entelligente Ente
+## Interface: 100107
+## SavedVariablesPerCharacter: AutoExtendDB
+## OptionalDeps: Ace3, IDShare
+## X-Curse-Project-ID: 886665
+
+Libs\Ace3\LibStub\LibStub.lua
+Libs\Ace3\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libs\Ace3\AceAddon-3.0\AceAddon-3.0.xml
+Libs\Ace3\AceEvent-3.0\AceEvent-3.0.xml
+Libs\Ace3\AceHook-3.0\AceHook-3.0.xml
+Libs\Ace3\AceDB-3.0\AceDB-3.0.xml
+
+AutoExtend.lua
